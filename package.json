@@ -11,5 +11,24 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.2.0"
-  }
+  },
+  "description": "**To install:**",
+  "version": "1.0.0",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "testCryptoAvisosV1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernss/CryptoAvisosV1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hernss/CryptoAvisosV1/issues"
+  },
+  "homepage": "https://github.com/hernss/CryptoAvisosV1#readme"
 }
